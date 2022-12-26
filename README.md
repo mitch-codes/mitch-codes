@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitchell Otieno Monda</h1>
-<h3 align="center">A passionate full stack developer whose up for any challenge</h3>
+<h3 align="center">A passionate full stack developer who is up for any challenge</h3>
 
 - 🔭 I’m currently working on [My portfolio website](https://mitch-codes.github.io)
 
