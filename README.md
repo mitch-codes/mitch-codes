@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mitchell Otieno Monda</h1>
 <h3 align="center">A passionate full stack developer whose up for any challenge</h3>
 
-- 🔭 I’m currently working on [Air Bnb Clone](www.github.com/mitchkodes)
+- 🔭 I’m currently working on [My portfolio website](https://mitch-codes.github.io)
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [www.mitchcodes.com](www.mitchcodes.com)
+- 👨‍💻 All of my projects are available at [www.mitch-codes.github.io](www.mitchcodes.com)
 
-- 📝 I regularly write articles on [www.mitchcodes.com](www.mitchcodes.com)
+- 📝 I regularly write articles on [https://mitch-codes.github.io](https://mitch-codes.github.io)
 
 - 💬 Ask me about **python, java, html, css, mysql**
 
 - 📫 How to reach me **mitchkodes@gmail.com**
 
-- 📄 Know about my experiences [www.mitchcodes.com](www.mitchcodes.com)
+- 📄 Know about my experiences [https://mitch-codes.github.io](https://mitch-codes.github.io)
 
 - ⚡ Fun fact **I enjoy listening to music**
 
