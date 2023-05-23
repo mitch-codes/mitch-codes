@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://mitch-codes.github.io](https://mitch-codes.github.io)
 
-- ⚡ Fun fact **I enjoy listening to music**
+- ⚡ Fun fact **I enjoy watching movies and series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
