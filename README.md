@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitchell Otieno Monda</h1>
 <h3 align="center">A passionate full stack developer who's up for any challenge</h3>
 
-- 🔭 I’m currently working on [My portfolio website](https://mitch-codes.github.io)
+- 🔭 I’m currently working on [My portfolio website](www.mitchcodes.com)
 
 - 🌱 I’m currently learning **Python**
 
