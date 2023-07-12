@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [www.mitch-codes.github.io](https://mitch-codes.github.io)
+- 👨‍💻 All of my projects are available at [mitch-codes.github.io](https://mitch-codes.github.io)
 
-- 📝 I regularly write articles on [https://mitch-codes.github.io](https://mitch-codes.github.io)
+- 📝 I regularly write articles on [mitch-codes.github.io](https://mitch-codes.github.io)
 
 - 💬 Ask me about **python, java, html, css, mysql**
 
