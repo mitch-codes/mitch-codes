@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mitchell Otieno Monda</h1>
 <h3 align="center">A passionate full stack developer who's up for any challenge</h3>
 
-- 🔭 I’m currently working on [sisi weather app](https://mitch-codes.github.io)
+- 🔭 I’m currently working on [Movie Review app](https://github.com/mitch-codes/Mondart-Movies-App)
 
-- 🌱 I’m currently learning **App development with java**
+- 🌱 I’m currently learning **App development with java/ Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://mitch-codes.github.io](https://mitch-codes.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@mitchkodes](https://medium.com/@mitchkodes)
 
-- 💬 Ask me about **python, java, sql**
+- 💬 Ask me about **python, java, sql, php**
 
 - 📫 How to reach me **mitchkodes@gmail.com**
 
